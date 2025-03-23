@@ -1,5 +1,5 @@
 var listaDenumerosSorteados = []
-var numeroFinal = 10;
+var numeroFinal = 100;
 var tentativas = 1;
 var numeroSecreto = gerarNumeroAleatorio()
 
